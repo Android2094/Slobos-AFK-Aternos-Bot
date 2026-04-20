@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MultyStinks",
+    "username": "MultySucks",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "FallGuysStuffSMP.aternos.me",
     "port": 54418,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
